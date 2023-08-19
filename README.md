@@ -5,6 +5,7 @@ Este repositório tem vários exemplos de Dockerfile e docker compose para estud
 ## Lista de Dockerfiles
 
 - [python/dockerfile-pip](python/dockerfile-pip/README.md)
+- [python/dockerfile-poetry](python/dockerfile-poetry/README.md)
 
 ## Licença
 
